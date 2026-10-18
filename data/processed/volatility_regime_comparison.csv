@@ -1,0 +1,7 @@
+Model,Regime,Observations,Exceptions,Exception_Rate_Pct
+Historical Simulation,Low volatility,977,5,0.5117707267144319
+Historical Simulation,High volatility,977,18,1.842374616171955
+Normal GARCH,Low volatility,977,22,2.2517911975435005
+Normal GARCH,High volatility,977,22,2.2517911975435005
+Student-t GARCH,Low volatility,977,19,1.9447287615148414
+Student-t GARCH,High volatility,977,16,1.6376663254861823

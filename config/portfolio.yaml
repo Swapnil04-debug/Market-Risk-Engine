@@ -1,0 +1,25 @@
+portfolio:
+  name: Market Risk Portfolio
+  initial_value: 1000000
+  currency: USD
+
+assets:
+  - ticker: SPY
+    weight: 0.30
+
+  - ticker: QQQ
+    weight: 0.25
+
+  - ticker: IWM
+    weight: 0.15
+
+  - ticker: GLD
+    weight: 0.15
+
+  - ticker: TLT
+    weight: 0.15
+
+risk_settings:
+  confidence_level: 0.99
+  horizon_days: 1
+  lookback_days: 500
